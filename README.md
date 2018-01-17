@@ -1,4 +1,4 @@
-## :frog: Android useful libraries :iphone ##
+## :frog: Android useful libraries :iphone: ##
 
 ### Network & Data ###
 
