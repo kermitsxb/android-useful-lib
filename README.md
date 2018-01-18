@@ -28,7 +28,7 @@
 
 - [PICASSO](http://square.github.io/picasso/) : Retrieving remote images and displaying them in an ImageView
 
-### Animation ###
+### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
 
