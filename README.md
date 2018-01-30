@@ -22,11 +22,13 @@
 
 - [REALM](https://realm.io/products/realm-database/) : Realm Database is an alternative to SQLite and Core Data.
 
-### Design ###
+### Design/Components ###
 
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) : UIL is a library which provides asynchronous, out of the box loading and caching of images. Although ***Picasso*** has a nicer API, it lacks in customization.
 
 - [PICASSO](http://square.github.io/picasso/) : Retrieving remote images and displaying them in an ImageView
+
+- [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) : Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 
 ### Animation ###
 
