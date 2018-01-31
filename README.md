@@ -30,6 +30,8 @@
 
 - [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) : Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 
+- [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) : Simple way to add a draggable sliding up panel 
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
