@@ -42,3 +42,4 @@ Sources :
 - https://infinum.co/the-capsized-eight/top-5-android-libraries-every-android-developer-should-know-about
 - https://www.credera.com/blog/credera-site/android-libraries-you-should-know/
 - https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0
+- https://www.libtastic.com/
