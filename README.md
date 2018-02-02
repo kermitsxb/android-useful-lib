@@ -32,6 +32,10 @@
 
 - [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) : Simple way to add a draggable sliding up panel 
 
+- [AndroidShapeImageView](https://github.com/siyamed/android-shape-imageview) : Custom shaped android imageview components
+
+- [Blurry](https://github.com/wasabeef/Blurry) : Easy blur library for Android
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
