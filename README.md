@@ -36,6 +36,8 @@
 
 - [Blurry](https://github.com/wasabeef/Blurry) : Easy blur library for Android
 
+- [SquareCamera](https://github.com/boxme/SquareCamera) : module that takes a square photo using the native Android Camera APIs (v1)
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
