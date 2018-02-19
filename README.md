@@ -38,6 +38,8 @@
 
 - [SquareCamera](https://github.com/boxme/SquareCamera) : module that takes a square photo using the native Android Camera APIs (v1)
 
+- [ButterKnife](http://jakewharton.github.io/butterknife/) : Field and method binding for Android views
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
