@@ -42,6 +42,8 @@
 
 - [BarCodeScanner](https://github.com/dm77/barcodescanner) : Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
 
+- [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) : Image Cropping Library for Android, optimized for Camera / Gallery.
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
