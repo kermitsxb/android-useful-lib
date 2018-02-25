@@ -44,6 +44,10 @@
 
 - [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) : Image Cropping Library for Android, optimized for Camera / Gallery.
 
+- [LoopingViewPager](https://github.com/siralam/LoopingViewPager) : A ViewPager and PagerAdapter combination that support auto scroll, infinite loop and page indicators. (Not a lot of stars but really functionnal)
+
+- [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) : An page indicator for Android ViewPager. (Works with LoopingViewPager)
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
