@@ -48,6 +48,9 @@
 
 - [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) : An page indicator for Android ViewPager. (Works with LoopingViewPager)
 
+- [RecyclerViewHeaders](https://github.com/paetztm/recycler_view_headers) : EZ recycler view with custom layout sticky header
+
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
