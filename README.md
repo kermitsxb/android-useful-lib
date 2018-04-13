@@ -50,6 +50,7 @@
 
 - [RecyclerViewHeaders](https://github.com/paetztm/recycler_view_headers) : EZ recycler view with custom layout sticky header
 
+- [FlexboxLayout](https://github.com/google/flexbox-layout) : FlexboxLayout for Android
 
 ### Animation ###
 
