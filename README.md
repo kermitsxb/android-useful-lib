@@ -50,6 +50,8 @@
 
 - [RecyclerViewHeaders](https://github.com/paetztm/recycler_view_headers) : EZ recycler view with custom layout sticky header
 
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) : Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+
 - [FlexboxLayout](https://github.com/google/flexbox-layout) : FlexboxLayout for Android
 
 ### Animation ###
