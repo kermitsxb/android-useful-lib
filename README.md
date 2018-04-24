@@ -52,7 +52,7 @@
 
 - [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) : Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
 
-- [FlexboxLayout](https://github.com/google/flexbox-layout) : FlexboxLayout for Android
+- [FlexboxLayout](https://github.com/google/flexbox-layout) : FlexboxLayout for Android
 
 ### Animation ###
 
