@@ -54,6 +54,8 @@
 
 - [FlexboxLayout](https://github.com/google/flexbox-layout) : FlexboxLayout for Android
 
+- [EndlessScrolling](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView) : Endless Scrolling with AdapterViews and RecyclerView
+
 ### Animation ###
 
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native. See : http://airbnb.io/lottie/
