@@ -10,6 +10,8 @@
 
 - [RETROFIT](http://square.github.io/retrofit/) : Retrofit turns your REST API into a Java interface.
 
+- [RSS-Parser](https://github.com/prof18/RSS-Parser) : An Android library to parse a RSS Feed
+
 - [Chuck](https://github.com/jgilfelt/chuck) : Library that helps intercept and persist all HTTP requests and responses inside your application. (Android ***Wireshark*** alternative)
 
 ### InApp Communication ###
